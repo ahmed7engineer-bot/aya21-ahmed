@@ -89,9 +89,9 @@ width:80%;
 
 max-width:700px;
 
-background:white;
+background:rgba(91,33,182,0.85);
 
-color:#222;
+color:white;
 
 padding:40px;
 
@@ -99,10 +99,13 @@ border-radius:20px;
 
 text-align:center;
 
-box-shadow:0 0 40px rgba(255,255,255,.3);
+border:2px solid #c084fc;
+
+backdrop-filter:blur(12px);
+
+box-shadow:0 0 40px rgba(192,132,252,0.4);
 
 }
-
 #letter button{
 
 margin-top:30px;
