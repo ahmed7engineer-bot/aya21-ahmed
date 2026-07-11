@@ -35,7 +35,7 @@ function nextPage() {
     height:100vh;
     text-align:center;
     color:white;
-    font-size:22px;
+    font-size:18px;
     line-height:1.8;
     padding:40px;
     font-family:Cairo;
